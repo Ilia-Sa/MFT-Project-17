@@ -1,4 +1,7 @@
+/*setting*/
 @import "setting.css";
+/*end of setting*/
+/*imports different sizes for the web size*/
 @import "size/1-xlarge/menuxlarge.css";
 @import "size/2-large/menularge.css";
 @import "size/3-medium/menumedium.css";
@@ -9,5 +12,6 @@
 @import "size/3-medium/mparallax.css";
 @import "size/4-small/sparallax.css";
 @import "size/5-xsmall/xsparallax.css";
+/*end of sizes*/
 @import "images";
 
